@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+.headBox {
+background-image: url('https://images.unsplash.com/photo-1437651025703-2858c944e3eb?fit=crop&fm=jpg&h=600&q=80&w=1300');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.name {
+  color: white;
+  text-align: center;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  margin-bottom: 200px;
+}
+nav {
+text-align: center;
+color: white;
+background-color: black;
+}
+
+body {
+  font-family: cursive;
+  background-color: black;
+  color: silver;
+  border: 2px solid #777;
+  margin: 10px;
+}
+main{
+  padding: 10px;
+}
+.contactinfo {
+  text-align: center;
+}
